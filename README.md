@@ -1,6 +1,7 @@
 # webgldonuts
 donuts are good, so i made one with webgl.
 this is a minimal webgl project that renders a rotating 3d donut (torus) in the browser.
+if you want to learn how to implement your own you can checkout mozzila docs--> [here](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
 
 ## usage
 
