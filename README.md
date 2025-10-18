@@ -1,5 +1,5 @@
 # webgldonuts
-donuts are good, so i made one with webgl
+donuts are good, so i made one with webgl.
 this is a minimal webgl project that renders a rotating 3d donut (torus) in the browser.
 
 ## usage
