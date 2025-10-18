@@ -6,7 +6,7 @@ if you want to learn how to implement your own you can checkout mozzila docs--> 
 ## usage
 
 open `index.html` in your browser.
-if you geet any CORS errors in your browser run it with vscode live server extension
+if you get any CORS errors in your browser run it with vscode live server extension
 [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 no dependencies required.
